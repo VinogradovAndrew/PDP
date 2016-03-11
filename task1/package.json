@@ -8,9 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "devDependencies": {
     "del": "^2.2.0",
     "gulp": "^3.9.1",
@@ -23,6 +21,8 @@
     "gulp-html-replace": "^1.5.5",
     "gulp-if": "^2.0.0",
     "gulp-imagemin": "^2.4.0",
+    "gulp-inject": "^3.0.0",
+    "gulp-jade": "^1.1.0",
     "gulp-jshint": "^2.0.0",
     "gulp-less": "^3.0.5",
     "gulp-livereload": "^3.8.1",
