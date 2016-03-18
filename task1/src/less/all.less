@@ -1,0 +1,18 @@
+@rootPrefix: "../../node_modules";
+//normalizer
+@import '@{rootPrefix}/bootstrap/less/normalize.less';
+
+//sprites
+@import "sprite.less";
+
+// variables
+@import 'variables.less';
+
+//project components
+@import "mixins.less";
+@import "common.less";
+
+.section-wrapper {
+    max-width:97rem;
+}
+

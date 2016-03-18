@@ -18,9 +18,9 @@ var
 
 var path = {
     src: {
-        less:'src/styl/**/*',
+        less:'src/less/**/*',
         images: 'src/img/**/*',
-        css: 'src/styl/all.less',
+        css: 'src/less/all.less',
         js: 'src/js/**/*',
         mainJade:"src/templates/index.jade",
         templates: "src/templates/**/*",
